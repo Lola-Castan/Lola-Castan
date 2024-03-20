@@ -1,4 +1,4 @@
-![Cover](https://github.com/Lola-Castan/Lola-Castan/blob/master/img/cover.png)
+![Cover](https://github.com/Lola-Castan/Lola-Castan/blob/main/img/cover.png)
 
 # Hello 👋 Bienvenue sur mon profil GitHub.
 
